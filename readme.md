@@ -2,7 +2,7 @@
 
 A comprehensive web-based Clinic Information System developed for **Caraga State University – Cabadbaran Campus (CSUCC)**. This system streamlines clinic operations by digitizing patient records, managing medicine inventory, logging consultations, and generating essential reports—all in one place.
 
-![CIS-CSUCC Screenshot](https://github.com/john-cabintoy-97/cis-csucc/screenshots/login.png)
+![CIS-CSUCC Screenshot](https://github.com/john-cabintoy-97/cis-csucc/blob/main/screenshots/login.png)
 
 ---
 

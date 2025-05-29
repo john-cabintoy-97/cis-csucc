@@ -1,0 +1,35 @@
+{
+  "name": "CLINIC INFORMATION SYSTEM OF CSUCC",
+  "short_name": "CIS",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#14261C",
+  "icons": [
+    {
+      "src": "./public/img/icons/app-icon-96x.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./public/img/icons/app-icon-144x.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./public/img/icons/app-icon-256x.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./public/img/icons/app-icon-512x.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
